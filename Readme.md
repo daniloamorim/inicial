@@ -1,5 +1,5 @@
 # Olá 👋, meu nome é <b>_Danilo_
-### Gotaria de aprender mais e conhecer novas pessoas e projetos,</br> aos quais gostaria de ser útil marcando minha passagem de alguma forma.
+### Gostaria de aprender mais e conhecer novas pessoas e projetos,</br> aos quais gostaria de ser útil marcando minha passagem de alguma forma.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloamorim&label=Profile%20views&color=0e75b6&style=flat" alt="daniloamorim" /> </p>
