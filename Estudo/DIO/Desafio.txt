@@ -2,7 +2,8 @@ Projeto Primerio Ropositorio DIO completo
 
 Passos:
 Feito o clone de um projeto;
-Inicializado o Repositorio local;
+Inicializado o Repositorio local;(Não foi criado pois já vem no clone);
+Alterado o Arquivo depois de commitado para fazer o pull.
 Criado Pasta;
 Criado arquivo;
 
