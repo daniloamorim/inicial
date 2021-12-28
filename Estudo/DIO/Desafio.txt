@@ -1,0 +1,11 @@
+Projeto Primerio Ropositorio DIO completo
+
+Passos:
+Feito o clone de um projeto;
+Inicializado o Repositorio local;
+Criado Pasta;
+Criado arquivo;
+
+Em seguida git add para poder ter o que commitar e só então commit
+
+
